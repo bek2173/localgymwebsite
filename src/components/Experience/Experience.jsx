@@ -15,22 +15,22 @@ const Experience = () => {
           {/* second col */}
           <div className="grid grid-rows-2 gap-4">
             <div className="text-center p-6 bg-dark">
-              <h1 className="text-3xl font-bold">60+</h1>
+              <h1 className="text-3xl font-bold">80+</h1>
               <p>Happy Clients</p>
             </div>
             <div className="text-center p-6 bg-dark">
-              <h1 className="text-3xl font-bold">120+</h1>
+              <h1 className="text-3xl font-bold">100+</h1>
               <p>Completed Projects</p>
             </div>
           </div>
           {/* Third col */}
           <div className="grid grid-rows-2 gap-4">
             <div className="text-center p-6 bg-dark">
-              <h1 className="text-3xl font-bold">60+</h1>
+              <h1 className="text-3xl font-bold">80+</h1>
               <p>Happy Clients</p>
             </div>
             <div className="text-center p-6 bg-dark">
-              <h1 className="text-3xl font-bold">120+</h1>
+              <h1 className="text-3xl font-bold">100+</h1>
               <p>Completed Projects</p>
             </div>
           </div>

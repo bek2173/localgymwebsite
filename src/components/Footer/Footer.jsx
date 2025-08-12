@@ -50,7 +50,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div className="sm:block hidden">Powered by BEREKET AWOKE ANDARGIE</div>
+          <div className="sm:block hidden">BEREKET AWOKE ANDARGIE</div>
           <nav className="hidden md:block">
             <ul className="flex items-center gap-8">
               {Navlinks.map(({ id, name, link }) => (
