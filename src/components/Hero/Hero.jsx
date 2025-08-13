@@ -20,7 +20,7 @@ const Hero = () => {
         <div className="container min-h-[620px] flex items-center">
           <div className="w-full md:w-[550px] mx-auto text-center space-y-5">
             <p data-aos="fade-up" className="text-primary text-2xl">
-              Start Your Fitness Journey
+              Start Your Fitness Journey Here
             </p>
             <h1
               data-aos="fade-up"

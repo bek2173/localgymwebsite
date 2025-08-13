@@ -20,7 +20,7 @@ const Experience = () => {
             </div>
             <div className="text-center p-6 bg-dark">
               <h1 className="text-3xl font-bold">100+</h1>
-              <p>Completed Projects</p>
+              <p>Completed challenges</p>
             </div>
           </div>
           {/* Third col */}
